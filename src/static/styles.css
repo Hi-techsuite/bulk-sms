@@ -1,0 +1,32 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    height: 100px; 
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.header-title{
+    font-weight: bold;
+}
+
+
+.section-main{
+    width: 100%;
+    height: 90vh;
+    padding: 1.5rem 0rem;
+}
+
+main{
+
+    height: 100%;
+    justify-content: start;
+}
